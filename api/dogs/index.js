@@ -3,6 +3,7 @@ module.exports = async function (context, req) {
     const dogs = [
         {name: 'Azure'},
         {name: 'AWS'},
+        {name: 'GCP'},
         {name: 'Sammy'},
         {name: 'Roscoe'},
         {name: 'Bailey'},
